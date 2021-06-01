@@ -1,0 +1,13 @@
+name: shinyapp
+title: shinyapp
+username:
+account: sar6ade
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4215806
+bundleId: 4666410
+url: https://sar6ade.shinyapps.io/shinyapp/
+when: 1622588779.75775
+lastSyncTime: 1622588779.75776
+asMultiple: FALSE
+asStatic: FALSE
